@@ -1,5 +1,5 @@
 # PiratedLauncher
-## Got games? Good. Got money? No? Come here then!
+## Games launcher made in C#
 
 ## Features
 * Automatic Game Retrieval: Fetches games information automatically through a JSON API.
