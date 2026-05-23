@@ -1,15 +1,10 @@
-## PiratedPiratedLauncher
-Got games? Good. Got money? No? Come here then!
-
-Heres the OG Readme.md
 # PiratedLauncher
-## A game launcher made in C#
+## Got games? Good. Got money? No? Come here then!
 
 ## Features
 * Automatic Game Retrieval: Fetches games information automatically through a JSON API.
 * HTTPS Safe Streaming Download: Securely stream and download game files directly through the launcher.
 * Automatic Extraction: Automatically extracts downloaded game archives for easy setup.
-* Key System: Uses the Work.ink key system to make some ad revenue while keeping things simple for users.
 
 ## License
 PiratedLauncher is licensed under the MIT License. See LICENSE for more information.
