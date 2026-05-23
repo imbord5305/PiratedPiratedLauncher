@@ -1,4 +1,4 @@
-# PiratedLauncher
+# PiratedPiratedLauncher
 ## Games launcher made in C#
 
 ## Features
