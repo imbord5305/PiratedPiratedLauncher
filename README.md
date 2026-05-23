@@ -15,4 +15,4 @@ PiratedLauncher is a legitimate open-source software designed to help game and s
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me through discord: johnnyon_thespot
+For any questions or suggestions, feel free to open an issue or contact me through discord: j.jay5990
