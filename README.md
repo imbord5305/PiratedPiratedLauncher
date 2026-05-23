@@ -1,7 +1,7 @@
 # PiratedPiratedLauncher
 To be honest, i would've used The Unlicense, but Johnny used the MIT License, and you know I'm a good boy. I listen to licenses.
 
-**# PiratedLauncher
+# PiratedLauncher
 ## A game launcher made in C#
 
 ## Features
