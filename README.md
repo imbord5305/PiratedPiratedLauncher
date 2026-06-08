@@ -1,6 +1,9 @@
 # PiratedPiratedLauncher
 ## Games launcher made in C#
 
+NOTE :: I WILL NOT BE ABLE TO COMMIT TO GITHUB ANYMORE, BECAUSE I REFUSE TO ENABLE 2FA. ALL COMMITS WIL BE SENT ON DISCORD.
+https://discord.gg/FuSWrhuhQn https://discord.gg/FuSWrhuhQn https://discord.gg/FuSWrhuhQn https://discord.gg/FuSWrhuhQn
+
 ## Features
 * Automatic Game Retrieval: Fetches games information automatically through a JSON API.
 * HTTPS Safe Streaming Download: Securely stream and download game files directly through the launcher.
